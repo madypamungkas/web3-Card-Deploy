@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/web3-UTS-Deploy/static/css/main.69eda509.chunk.css",
-    "main.js": "/web3-UTS-Deploy/static/js/main.20e39ad4.chunk.js",
-    "main.js.map": "/web3-UTS-Deploy/static/js/main.20e39ad4.chunk.js.map",
+    "main.js": "/web3-UTS-Deploy/static/js/main.c5287fc0.chunk.js",
+    "main.js.map": "/web3-UTS-Deploy/static/js/main.c5287fc0.chunk.js.map",
     "runtime-main.js": "/web3-UTS-Deploy/static/js/runtime-main.2ac271a7.js",
     "runtime-main.js.map": "/web3-UTS-Deploy/static/js/runtime-main.2ac271a7.js.map",
     "static/css/2.69121389.chunk.css": "/web3-UTS-Deploy/static/css/2.69121389.chunk.css",
     "static/js/2.b6c3a545.chunk.js": "/web3-UTS-Deploy/static/js/2.b6c3a545.chunk.js",
     "static/js/2.b6c3a545.chunk.js.map": "/web3-UTS-Deploy/static/js/2.b6c3a545.chunk.js.map",
     "index.html": "/web3-UTS-Deploy/index.html",
-    "precache-manifest.e05649106e91d811d31353e3b5b1afd8.js": "/web3-UTS-Deploy/precache-manifest.e05649106e91d811d31353e3b5b1afd8.js",
+    "precache-manifest.609e7022b196fe11b017ef68c1844e1c.js": "/web3-UTS-Deploy/precache-manifest.609e7022b196fe11b017ef68c1844e1c.js",
     "service-worker.js": "/web3-UTS-Deploy/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/web3-UTS-Deploy/static/css/2.69121389.chunk.css.map",
     "static/css/main.69eda509.chunk.css.map": "/web3-UTS-Deploy/static/css/main.69eda509.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.b6c3a545.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.20e39ad4.chunk.js"
+    "static/js/main.c5287fc0.chunk.js"
   ]
 }
