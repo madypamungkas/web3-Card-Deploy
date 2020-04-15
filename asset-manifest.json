@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/madypamungkas/web3-UTS-Deploy/static/css/main.69eda509.chunk.css",
+    "main.js": "/madypamungkas/web3-UTS-Deploy/static/js/main.025510e8.chunk.js",
+    "main.js.map": "/madypamungkas/web3-UTS-Deploy/static/js/main.025510e8.chunk.js.map",
+    "runtime-main.js": "/madypamungkas/web3-UTS-Deploy/static/js/runtime-main.d4ef643f.js",
+    "runtime-main.js.map": "/madypamungkas/web3-UTS-Deploy/static/js/runtime-main.d4ef643f.js.map",
+    "static/css/2.69121389.chunk.css": "/madypamungkas/web3-UTS-Deploy/static/css/2.69121389.chunk.css",
+    "static/js/2.b6c3a545.chunk.js": "/madypamungkas/web3-UTS-Deploy/static/js/2.b6c3a545.chunk.js",
+    "static/js/2.b6c3a545.chunk.js.map": "/madypamungkas/web3-UTS-Deploy/static/js/2.b6c3a545.chunk.js.map",
+    "index.html": "/madypamungkas/web3-UTS-Deploy/index.html",
+    "precache-manifest.b16bfdfb57eecf69a77a88829cad3b81.js": "/madypamungkas/web3-UTS-Deploy/precache-manifest.b16bfdfb57eecf69a77a88829cad3b81.js",
+    "service-worker.js": "/madypamungkas/web3-UTS-Deploy/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/madypamungkas/web3-UTS-Deploy/static/css/2.69121389.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/madypamungkas/web3-UTS-Deploy/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.b6c3a545.chunk.js.LICENSE.txt": "/madypamungkas/web3-UTS-Deploy/static/js/2.b6c3a545.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4ef643f.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.b6c3a545.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.025510e8.chunk.js"
+  ]
+}
